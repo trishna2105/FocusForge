@@ -2,7 +2,7 @@ from pymongo import MongoClient
 from urllib.parse import quote_plus
 
 username = "focusforge9"
-password = "Edutech@2104"
+password = "xxxx"
 encoded_password = quote_plus(password)
 
 
