@@ -134,7 +134,7 @@ http://localhost:8000
 ```
 
 ---
-## 📸 Screenshots
+## 📸 Visual Overview
 <table>
   <tr>
     <td>
