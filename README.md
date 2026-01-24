@@ -134,6 +134,27 @@ http://localhost:8000
 ```
 
 ---
+## 📸 Screenshots
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/ba9a8b47-7cb6-4af0-93b4-3115a02d6f8a" width="500"/>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/55071b8b-09b9-4dc6-98c9-b1b0e5443504" width="500"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/d495eb2e-5590-4af7-87c0-5246a159dda5" width="500"/>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/5b903349-f564-4066-8cae-4add345d87b3" width="500"/>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 🎯 Future Enhancements
 
